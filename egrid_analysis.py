@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from fpdf import FPDF
-from io import BytesIO
 import tempfile  # Added to handle temporary file creation
 
 # Read the dataset (assuming file path is correct)
