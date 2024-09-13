@@ -1,3 +1,5 @@
+[![Python Application Test with Github Actions](https://github.com/nogibjj/Liu_Yirang_706-DE-Pandas_Descriptive_Stat/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/Liu_Yirang_706-DE-Pandas_Descriptive_Stat/actions/workflows/main.yml)
+
 # 706-DE-Pandas_Descriptive_Stat
 
 This is a project to use Pandas for descriptive statistics
